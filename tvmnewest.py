@@ -522,6 +522,7 @@ elif player == str(6) and villain == str(5):
     villain_max = typ_max
 
 # We have to redefine enemy mystery tank, so it can generate new stats
+# different HP and min/max
     
 elif player == str(6) and villain == str(6):
     player_bn = mystery_bn
